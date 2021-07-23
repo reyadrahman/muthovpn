@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1030097344031",
+    "project_id": "mutho-vpn",
+    "storage_bucket": "mutho-vpn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030097344031:android:7da9f0fecc0f0d7289e72a",
+        "android_client_info": {
+          "package_name": "com.mutho.vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030097344031-bh19jee176vmo92j5mcievgqn5mmmmlp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mutho.vpn",
+            "certificate_hash": "b8457dc8154d95d24dd10113f43173b1560f83cb"
+          }
+        },
+        {
+          "client_id": "1030097344031-7k78267cs2ab45ej4s9nlgs0du0isabo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfHN4CDpGRTsI3Ub9L7Qeo_oHz3ZbLo5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030097344031-7k78267cs2ab45ej4s9nlgs0du0isabo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
