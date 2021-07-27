@@ -1,1 +1,58 @@
+https://github.com/yarnpkg/yarn/issues/2821
+https://firebase.google.com/docs/hosting/quickstart
+https://stackabuse.com/copying-a-directory-with-scp
+https://linuxconfig.org/download-file-from-url-on-linux-using-command-line
+https://classic.yarnpkg.com/en/docs/cli/version/
+https://www.tecmint.com/hide-files-and-directories-in-linux/#:~:text=To%20view%20hidden%20files%2C%20run,al%20flag%20for%20long%20listing.&text=From%20a%20GUI%20file%20manager,view%20hidden%20files%20or%20directories.
+firebase login --no-localhost.
+https://www.devmanuals.net/install/ubuntu/ubuntu-16-04-LTS-Xenial-Xerus/how-to-install-cmdtest.html#:~:text=For%20uninstalling%20this%20package%20you,package%20from%20Linux%20Operating%20System.&text=This%20will%20remove%20cmdtest%20and,longer%20needed%20in%20the%20system.&text=Above%20command%20will%20remove%20all,data%20associated%20with%20cmdtest%20package.
+
+
+Mutho VPN
+
+wget https://www.dropbox.com/s/7gz09rk2qthvw9x/.eslintignore?dl=0
+
+
+https://stackoverflow.com/questions/63473787/error-failed-to-get-firebase-project-project-name-please-make-sure-the-project
+
+This package has installed:
+* Node.js v14.17.3 to /usr/local/bin/node
+* npm v6.14.13 to /usr/local/bin/npm
+Make sure that /usr/local/bin is in your $PATH.
+
+
+
+https://garywoodfine.com/connect-aws-lightsail-ssh-with-ubuntu-terminal/
+https://askubuntu.com/questions/261900/how-do-i-open-a-text-file-in-my-terminal
+https://stackoverflow.com/questions/9427553/how-to-download-a-file-from-server-using-ssh
+https://community.bitnami.com/t/how-to-use-scp-to-copy-from-one-lightsail-instance-to-another/92794/11
+
+https://stackoverflow.com/questions/46102962/firebase-database-secrets-on-google-apps-script
+
+scp -i ~/.Downloads/vpn/key.pem admin@16.170.70.94:/home/admin/muthovpn-android.ovpn .      
+ssh -i ~/Downloads/vpn/key.pem admin@16.170.70.94.  
+
+ssh -i key.pem admin@16.170.70.94.
+sudo scp -i key.pem admin@16.170.70.94:muthovpn-android.ovpn  vpn
+
+scp admin@16.170.70.94:muthovpn-android.ovpn ~/Downloads
+scp admin@16.170.70.94:/home/admin/muthovpn-android.ovpn ~/Downloads/vpn
+
+firebase init hosting /users/muthopaylimited/Downloads/vpn
+
+
+
+
+   Loaded: loaded (/lib/systemd/system/openvpn.service; enabled; vendor preset: enabled)
+   Active: active (exited) since Tue 2021-07-27 00:57:53 UTC; 30s ago
+  Process: 10782 ExecStart=/bin/true (code=exited, status=0/SUCCESS)
+ Main PID: 10782 (code=exited, status=0/SUCCESS)
+
+Jul 27 00:57:53 ip-172-26-2-68 systemd[1]: Starting OpenVPN service...
+Jul 27 00:57:53 ip-172-26-2-68 systemd[1]: Started OpenVPN service.
+
+
+/root/muthovpn-android.ovpn
+
+cat muthovpn-android.ovpn
 
